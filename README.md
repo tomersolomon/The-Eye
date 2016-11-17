@@ -9,7 +9,16 @@ For my final project, I decided it would be fun to create a basic web app in Fla
 
 As such, I thought it would be cool to implement a basic people detection algorithm as a final project for this class. I experimented around with Flask as well to dabble in how basic web application works. I used OpenCV as the main library for computer vision work as it is the leading and one of the most powerful computer vision libraries, and wanted to get experience with how it worked. Becasue it was first coded up in C/C++ then transferred over to Python however, the documentation wasn't necessarily the best. Specifically, the machine learning algorithm is a support vector machine pretrained on the INRIA Person datasets. 
 
+Below are a couple examples of analyzed images:
+
+![alt text](https://github.com/tomersolomon/TheEye/blob/master/analyzed_examples/Screen%20Shot%202016-11-16%20at%2011.19.11%20PM.png "Logo Title Text 1")
+
+![alt text](https://github.com/tomersolomon/TheEye/blob/master/analyzed_examples/Screen%20Shot%202016-11-16%20at%2011.19.23%20PM.png "Logo Title Text 1")
+
+
 A video demo is saved down as "video_demo.mp4" in the folder, which is a screen cast of the app in action!
+
+
 
 
 ### Code Structure
