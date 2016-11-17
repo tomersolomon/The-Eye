@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title>Home Page</title>
+  </head>
+  <body>
+  	<h1> Results after some ML magic!</h1>
+    <h2> File saved at static/{{ after_image }} </h2>
+    <img src = "{{url_for('static', filename = after_image)}}"  height="320" width="420">
+  </body>
+</html>
